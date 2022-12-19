@@ -5,6 +5,7 @@ The details contained here are subject to continual change. If in doubt, use you
 All measurements are approximate unless otherwise stated.
 
 ### Batches
+
 | Dalek Batch | Props | Approx. Delivery Date | Made for |
 | ----------- | ----- | ------------ | -------- |
 | 1           | 1, 2, 3, 4 | Nov. 1963 | Serial B "The Daleks" |
@@ -13,6 +14,7 @@ All measurements are approximate unless otherwise stated.
 
 
 ### As-built Specification
+
 | Dalek Batch | Skirt Returns | Shoulder Returns | Neck Bin Returns |
 | ----------- | ------------- | ---------------- | ---------------- |
 | 1           | 9 mm (3/8") ply      | 9 mm (3/8") ply, upper 40 mm (1 1/2") wide | 18 mm (3/4") blockboard<sup>1</sup> |
