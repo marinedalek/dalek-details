@@ -17,8 +17,8 @@ All measurements are approximate unless otherwise stated.
 
 | Dalek Batch | Skirt Returns | Shoulder Returns | Neck Bin Returns |
 | ----------- | ------------- | ---------------- | ---------------- |
-| 1           | 9 mm (3/8") ply      | 9 mm (3/8") ply, upper 40 mm (1 1/2") wide | 18 mm (3/4") blockboard<sup>1</sup> |
+| 1           | 9 mm (3/8") ply      | 9 mm (3/8") ply, upper 40 mm (1 1/2") wide | 9 mm (3/8") ply<sup>1</sup> |
 | 2           | 18 mm (3/4") blockboard | 9 mm (3/8") ply, upper 40 mm (1 1/2") wide | 9 mm (3/8") ply |
 | 3           | 18 mm (3/4") blockboard | 9 mm (3/8") ply, upper 30 mm (1 1/4") wide | 9 mm (3/8") ply |
 
-<sup>1. Based on the assumption that the current neck paired with Prop 1's shoulder section is original.</sup>
+<sup>1. The current neck paired with Prop 1's shoulder section has 18 mm blockboard returns, but this isn't in keeping with Shawcraft's apparent "9mm unless something breaks often" practice.</sup>
